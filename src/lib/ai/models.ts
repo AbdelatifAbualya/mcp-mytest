@@ -28,7 +28,7 @@ const staticModels = {
   },
   google: {
     "gemini-2.5-flash": google("gemini-2.5-flash-preview-04-17"),
-    "gemini-1.5-pro-latest": google("gemini-2.5-pro-preview-05-06"),
+    "gemini-2.5-pro": google("gemini-2.5-pro"),
   },
   anthropic: {
     "claude-3-5-sonnet": anthropic("claude-3-5-sonnet-latest"),
