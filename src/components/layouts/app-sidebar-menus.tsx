@@ -63,6 +63,13 @@ export function AppSidebarMenus() {
                   </SidebarMenuButton>
                 </Link>
               </SidebarMenuItem>
+              <SidebarMenuItem>
+                <Link href="/mcp/cod-settings">
+                  <SidebarMenuButton className="font-semibold">
+                    🧠 CoD Settings
+                  </SidebarMenuButton>
+                </Link>
+              </SidebarMenuItem>
             </Tooltip>
           </TooltipProvider>
         </SidebarMenu>
